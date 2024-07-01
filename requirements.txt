@@ -1,0 +1,7 @@
+matplotlib
+matplotlib-inline
+pandas==1.5.3
+numpy
+torch==1.12.1
+torchvision
+yfinance
